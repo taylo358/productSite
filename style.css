@@ -81,8 +81,8 @@ p.VI{
     padding-left: 30px;
 }
 img.shoe {
-    height: 300px;
-    width:250px;
+    height: auto;
+    width:100%;
     text-align: left;
     align-content: left;
 }
