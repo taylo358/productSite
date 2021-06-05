@@ -153,8 +153,8 @@ img.shoe{
     margin: auto;
     text-align: center;
     padding-bottom: 10px;
-    width:800px;
-    height: 750px;
+    width:100%;
+    height: auto;
 }
 h3.quotes{
     font-family: serif;
